@@ -1,0 +1,5 @@
+**/src/static/css/bulma.css
+**/src/static/css/bulma.css.map
+.env/*
+.vscode/*
+__pycache__
